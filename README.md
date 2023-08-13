@@ -76,7 +76,7 @@ API criada na disciplina de microserviços.
  - Clone the Repository
  - On `post-microsservice` folder, run `make build`
  - Wait for Gradlew to download all dependencies and build the project
-     - It may take a long time on first time
+     - It may take a while on first time
  - It's all set up!
 
 ## How to run tests
